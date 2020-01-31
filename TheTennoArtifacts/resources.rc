@@ -1,0 +1,27 @@
+/*********************************************************************
+* Assignment: Project 3 - GUI Move and Match Game                    *
+* Author: Marc Baello                                                *
+* Date: Fall 2017                                                    *
+* File: resources.rc                                                 *
+*                                                                    *
+* Description: This file contains the references of the extra        *
+*              resources used for Project 3.                         *
+*********************************************************************/
+
+BACKGROUND_BMP 	BITMAP	Background.bmp
+ME_BMP 		BITMAP	Focus.bmp
+SYMBOL1_BMP 	BITMAP	Madurai.bmp
+SYMBOL2_BMP		BITMAP	Naramon.bmp
+SYMBOL3_BMP		BITMAP	Unairu.bmp
+SYMBOL4_BMP		BITMAP	Vazarin.bmp
+SYMBOL5_BMP		BITMAP	Zenurik.bmp
+SYM1DARK_BMP	BITMAP	MaduraiDark.bmp
+SYM2DARK_BMP	BITMAP	NaramonDark.bmp
+SYM3DARK_BMP	BITMAP	UnairuDark.bmp
+SYM4DARK_BMP	BITMAP	VazarinDark.bmp
+SYM5DARK_BMP	BITMAP	ZenurikDark.bmp
+AAA	ICON	TennoArtifacts.ico
+1	RCDATA	"TennoArtifactsBGM.mp3"
+2	RCDATA	"TennoArtifactsMOV.mp3"
+3	RCDATA	"TennoArtifactsMAT.mp3"
+4	RCDATA	"TennoArtifactsTWS.mp3"
